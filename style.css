@@ -11,13 +11,13 @@ header{
     border-bottom: solid 2px #a58e63 ;
     margin: 20px;
     font-size: 32px;
-    color: black;
+    color: red;
 }
 
 section{    
 padding-bottom: 80px;
 padding-top: 80px;
-background: gray;
+background: black;
 display: flex;
 justify-content: center;
 }
